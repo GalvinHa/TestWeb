@@ -1,3 +1,11 @@
+
+body{
+    font-size: 2rem;
+}
+
+
+@media (max-width: 600px) {
+   
 body {
     width: 37.5em;
     height: 100%;
@@ -129,4 +137,5 @@ footer {
 
 .container{
     padding: 10px;
+} 
 }
